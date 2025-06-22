@@ -1,1 +1,1 @@
-![MoeinCommerce Logo](https://github.com/MoeinCommerce/.github/blob/main/profile/mc.png?raw=true)
+![MoeinCommerce Logo](https://github.com/MoeinCommerce/Graphics/blob/main/banner/compressed_mc.png?raw=true)
